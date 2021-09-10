@@ -1,0 +1,198 @@
+/*---------------960 Screen size---------------*/
+@media only screen and (min-width: 959px) and (max-width: 1170px) {
+#mobile-menu ul, .holder, .call-to-action, .video-player-container { width: 900px; }
+.grid.row3 li, .grid.row4 li, .grid.row5 li, .grid.row6 li { width: 33.33%; }
+
+.col2 li, .col3 li, .col4 li, .col5 li { width: 33%; }
+.portfolio-item-description { padding: 0 100px }
+h1.call-to-action, h2.call-to-action, h3.call-to-action, h4.call-to-action { margin-bottom: 0; margin-top: 0; line-height: 26px; }
+.call-to-action .button { margin-left: 0; margin-top: 20px; top: 0; }
+.call-to-action span { width: 100%; display: block; }
+}
+
+/*---------------iPad landscape---------------*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 959px) {
+.parallax {	background-attachment: scroll!important; background-position: center!important; background-repeat: no-repeat!important; }
+}
+
+/*---------------iPad portrait---------------*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+#mobile-menu ul, .holder, .call-to-action, .video-player-container { width: 650px; }	
+.menu {display:none;}
+.parallax {	background-attachment: scroll!important; background-position: center!important; background-repeat: no-repeat!important; }
+.one-fifth { width: 100%; margin-right: 0; margin-bottom: 45px; }
+.one-fourth, .three-fourth, .holder.fullwidth .one-fourth { width: 48%; margin-bottom: 45px; }
+.boxed.one, .boxed.one-half, .boxed.one-third, .boxed.two-third, .boxed.one-fourth, .boxed.three-fourth, .boxed.one-fifth { padding:6%; }
+.one-fourth:nth-child(2n+1) { margin-right: 0; }
+.holder.fullwidth .one-half, .holder.fullwidth .one-third, .holder.fullwidth .two-third, .holder.fullwidth .one-fourth, .holder.fullwidth .three-fourth, .holder.fullwidth .one-fifth { margin-bottom: 0; }
+.holder.fullwidth .one-fourth, .holder.fullwidth .three-fourth, .holder.fullwidth .one-fifth { width: 50%; margin-bottom: 0; }
+.last { margin-bottom: 0 !important; }
+.col2 li, .col3 li, .col4 li, .col5 li { width: 49.50%; }
+.portfolio-item-description { padding: 0 }
+h1.call-to-action, h2.call-to-action, h3.call-to-action, h4.call-to-action { margin-bottom: 0; margin-top: 0; line-height: 26px; }
+.call-to-action .button { margin-left: 0; margin-top: 20px; top: 0; }
+.call-to-action span { width: 100%; display: block; }
+.item-info { padding: 15px; }
+.grid.row3 li, .grid.row4 li, .grid.row5 li, .grid.row6 li { width: 33.33%; }
+
+.google-map {	height: 400px; }
+.form input, .form .contact-error, .contact-success { width: 100%; }
+.contact-button { margin-top: 0; }
+.post-nav-2 li.prev { padding-left: 10%; }
+.post-nav-2 li.next { padding-right: 10%; }
+.pricing-table .col-2.content, .pricing-table .col-3.content, .pricing-table .col-4.content, .pricing-table .col-5.content, .pricing-table .col-6.content { width: 50%; }
+.portfolio-single-holder .one-half, .portfolio-single-holder .one-third, .portfolio-single-holder .two-third, .portfolio-single-holder .one-fourth, .portfolio-single-holder .three-fourth, .portfolio-single-holder .one-fifth { width: 100%; margin-right: 0; margin-bottom: 45px; }
+.holder.fullwidth .one-half, .holder.fullwidth .one-third, .holder.fullwidth .two-third, .holder.fullwidth .one-fourth, .holder.fullwidth .three-fourth, .holder.fullwidth .one-fifth { width: 100%; padding:6%; }
+}
+
+/*---------------iPhone landscape---------------*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+#mobile-menu ul, .holder, .call-to-action, .video-player-container { width: 420px; }	
+.menu {display:none;}
+.parallax {	background-attachment: scroll!important; background-position: center!important; background-repeat: no-repeat!important; }
+.one, .one-half, .one-third, .two-third, .one-fourth, .three-fourth, .one-fifth { width: 100%; margin-right: 0; margin-bottom: 45px; }
+.holder.fullwidth .one-half, .holder.fullwidth .one-third, .holder.fullwidth .two-third, .holder.fullwidth .one-fourth, .holder.fullwidth .three-fourth, .holder.fullwidth .one-fifth { width: 50%; margin-bottom: 0; }
+.one.boxed, .one-half.boxed, .one-third.boxed, .two-third.boxed, .one-fourth.boxed, .three-fourth.boxed, .one-fifth.boxed { padding:8%; }
+.last { margin-bottom: 0 !important; }
+.button-group { width: 100%; }
+.button-group .button {	font-size: 15px; }
+.portfolio-grid { width: 100%; }
+.col2 li, .col3 li, .col4 li, .col5 li { width: 49.90%; }
+.portfolio-item-description { padding: 0 }
+h1.call-to-action, h2.call-to-action, h3.call-to-action, h4.call-to-action { margin-bottom: 0; margin-top: 0; line-height: 28px; }
+.call-to-action .button { margin-left: 0; margin-top: 20px; top: 0; }
+.call-to-action span { width: 100%; display: block; }
+.item-info { padding: 15px; }
+.grid.row3 li, .grid.row4 li, .grid.row5 li, .grid.row6 li { width: 50%; }
+
+.google-map {	height: 300px; }
+.form input, .form .contact-error, .contact-success { width: 100%; }
+.contact-button { margin-top: 0; }
+.pricing-table .col-2.content, .pricing-table .col-3.content, .pricing-table .col-4.content, .pricing-table .col-5.content, .pricing-table .col-6.content { width: 100%; margin-bottom: 20px; }
+.portfolio-single-holder .one-half, .portfolio-single-holder .one-third, .portfolio-single-holder .two-third, .portfolio-single-holder .one-fourth, .portfolio-single-holder .three-fourth, .portfolio-single-holder .one-fifth { width: 100%; margin-right: 0; margin-bottom: 45px; }
+.holder.fullwidth .one-half, .holder.fullwidth .one-third, .holder.fullwidth .two-third, .holder.fullwidth .one-fourth, .holder.fullwidth .three-fourth, .holder.fullwidth .one-fifth { width: 100%; padding:6%; }
+.post-nav-2 li { padding: 4%; }
+.post-nav-2 li.prev { padding-left: 5%; }
+.post-nav-2 li.next { padding-right: 5%; }
+.call-to-action .button {
+    margin-left: 15px; 
+	margin-bottom: 0;  
+    top: 0; 
+	position: relative; 
+}
+}
+
+/*--------------iPhone portrait---------------*/
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+#mobile-menu ul, .holder, .call-to-action, .video-player-container { width: 300px; }	
+.menu {display:none;}
+.parallax {	background-attachment: scroll!important; background-position: center!important; background-repeat: no-repeat!important; }
+.page-header div { width: 100%; }
+.page-header .alignright { float: left; }
+.page-header div:last-child { margin-bottom: 0; }
+.one, .one-half, .one-third, .two-third, .one-fourth, .three-fourth, .one-fifth { width: 100%; margin-right: 0; margin-bottom: 45px; }
+.holder.fullwidth .one-half, .holder.fullwidth .one-third, .holder.fullwidth .two-third, .holder.fullwidth .one-fourth, .holder.fullwidth .three-fourth, .holder.fullwidth .one-fifth { width: 100%; margin-bottom: 0; }
+.one.boxed, .one-half.boxed, .one-third.boxed, .two-third.boxed, .one-fourth.boxed, .three-fourth.boxed, .one-fifth.boxed { padding:10%; }
+h1.call-to-action, h2.call-to-action, h3.call-to-action, h4.call-to-action { margin-bottom: 0; margin-top: 0; line-height: 28px; }
+.call-to-action .button { margin-left: 0; margin-top: 20px; top: 0; }
+.call-to-action span { width: 100%; display: block; }
+.last { margin-bottom: 0 !important; }
+.portfolio-grid { width: 100%; }
+.col2 li, .col3 li, .col4 li, .col5 li { width: 100%; }
+.portfolio-item-description { padding: 0 }
+.item-info { padding: 15px; }
+.grid.row3 li, .grid.row4 li, .grid.row5 li, .grid.row6 li { width: 100%; margin-bottom: 5px; }
+
+/*.grid.row3 li:nth-child(3n-1), .grid.row3 li:nth-child(3n-2), .grid.row3 li:nth-child(3n-3), 
+.grid.row4 li:nth-child(4n-1), .grid.row4 li:nth-child(4n-2), .grid.row4 li:nth-child(4n-3), .grid.row4 li:nth-child(4n-4), 
+.grid.row5 li:nth-child(5n-1), .grid.row5 li:nth-child(5n-2), .grid.row5 li:nth-child(5n-3), .grid.row5 li:nth-child(5n-4), .grid.row5 li:nth-child(5n-5), 
+.grid.row6 li:nth-child(6n-1), .grid.row6 li:nth-child(6n-2), .grid.row6 li:nth-child(6n-3), .grid.row6 li:nth-child(6n-4), .grid.row6 li:nth-child(6n-5) {  border-right: none; } */
+
+.google-map { height: 200px; }
+.form input, .form .contact-error, .contact-success { width: 100%; }
+.contact-button { margin-top: 0; }
+.pricing-table .col-2.content, .pricing-table .col-3.content, .pricing-table .col-4.content, .pricing-table .col-5.content, .pricing-table .col-6.content { width: 100%; margin-bottom: 20px; }
+.portfolio-single-holder .one-half, .portfolio-single-holder .one-third, .portfolio-single-holder .two-third, .portfolio-single-holder .one-fourth, .portfolio-single-holder .three-fourth, .portfolio-single-holder .one-fifth { width: 100%; margin-right: 0; margin-bottom: 45px; }
+.holder.fullwidth .one-half, .holder.fullwidth .one-third, .holder.fullwidth .two-third, .holder.fullwidth .one-fourth, .holder.fullwidth .three-fourth, .holder.fullwidth .one-fifth { width: 100%; padding:8%; }
+.post-nav-2 li { padding: 5%; }
+.post-nav-2 li.prev { padding-left: 5%; }
+.post-nav-2 li.next { padding-right: 5%; }
+}
+
+
+/*---------------Blog Responsive CSS---------------*/
+
+/*---------------960 Screen size---------------*/
+@media only screen and (min-width: 959px) and (max-width: 1170px) {
+.inner-content { width: 650px; }
+.sidebar { width: 200px; }
+
+.blog-holder.col-4 .post { width: 29.63%; }
+.blog-holder-default .post-content { width: 85.5%; }
+}
+
+/*---------------iPad portrait---------------*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+.inner-content, .sidebar { width: 650px; }
+.inner-content { border-bottom: 2px solid #eee; margin: 0 0 40px 0; padding: 0 0 40px 0; }
+.content.alternate .inner-content { border-color: #ddd; }
+.content.alternate.dark .inner-content { border-color: rgba(255, 255, 255, 0.1); }	
+.parallax.default_color .inner-content { border-color: rgba(255, 255, 255, 0.45); }
+
+.blog-holder { }
+.blog-holder .post { margin-bottom: 40px; }
+.blog-holder.col-2 .post, .blog-holder.col-3 .post, .blog-holder.col-4 .post { width: 46%; }
+.blog-holder-default .post-content { width: 85.5%; }
+
+.comment-form input { width: 70%; }
+.comment-form, .comment-form textarea { width: 100%; } 
+}
+
+/*---------------iPhone landscape---------------*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.inner-content, .sidebar { width: 420px; }
+.inner-content { border-bottom: 2px solid #eee; margin: 0 0 40px 0; padding: 0 0 40px 0; }
+.content.alternate .inner-content { border-color: #ddd; }
+.content.alternate.dark .inner-content { border-color: rgba(255, 255, 255, 0.1); }	
+.parallax.default_color .inner-content { border-color: rgba(255, 255, 255, 0.45); }	
+
+.blog-holder { width: 100%; margin-left: 0; }
+.blog-holder .post { margin-left: 0; margin-bottom: 40px; }
+.blog-holder.col-2 .post, .blog-holder.col-3 .post, .blog-holder.col-4 .post { width: 100%; }
+.blog-holder-default .post-content { width: 100%; }
+.blog-holder-default .post-date { width: 100%; }
+.blog-holder-default .post-date li {-moz-transform: rotate(0); -o-transform: rotate(0); -webkit-transform: rotate(0); transform: rotate(0);	width: 100px; height: 100%; 
+    margin: 0 auto 15px auto;
+	display: block; 
+}
+.blog-holder-default .post-date li span { -moz-transform: rotate(0); -o-transform: rotate(0); -webkit-transform: rotate(0); transform: rotate(0); line-height: 17px; }
+
+.comment .avatar { width: 20%; }
+.comment .comment-wrap { width: 80%; }
+.comment .children { padding: 0 0 0 20%; }
+
+.comment-form, .comment-form input, .comment-form textarea { width: 100%; }
+.comment-form textarea { margin: 20px 0; }  
+.comment-form p { padding-bottom: 0; }
+}
+
+/*---------------iPhone portrait---------------*/
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+.inner-content, .sidebar { width: 300px; }
+.inner-content { border-bottom: 2px solid #eee; margin: 0 0 40px 0; padding: 0 0 40px 0; }
+.content.alternate .inner-content { border-color: #ddd; }
+.content.alternate.dark .inner-content { border-color: rgba(255, 255, 255, 0.1); }	
+.parallax.default_color .inner-content { border-color: rgba(255, 255, 255, 0.45); }
+
+.blog-holder { width: 100%; margin-left: 0; }
+.blog-holder .post { margin-left: 0; margin-bottom: 40px; }
+.blog-holder.col-2 .post, .blog-holder.col-3 .post, .blog-holder.col-4 .post { width: 100%; }
+
+.comment .avatar { width: 20%; }
+.comment .comment-wrap { width: 80%; }
+.comment .children { padding: 0 0 0 20%; }
+
+.comment-form, .comment-form input, .comment-form textarea { width: 100%; }
+.comment-form textarea { margin: 20px 0; }  
+.comment-form p { padding-bottom: 0; }
+}

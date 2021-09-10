@@ -1,0 +1,147 @@
+blockquote.color {
+	background-color: #5FBCE9;
+}
+a { 
+	color: #5FBCE9;
+}
+.dark a {
+	color: #5FBCE9;
+}
+.timer{
+	color: #5FBCE9;
+}
+.button.default_color { background-color:#5FBCE9; }
+.content.alternate.default_color {
+	background-color: #5FBCE9;
+}
+.parallax.default_color {
+	background-color: #5FBCE9;
+}
+.parallax.default_color .item-mask {
+	background-color: #5FBCE9;
+}
+.parallax .parallax.default_color, .parallax .content.alternate.default_color {
+	background-color: rgba(95, 188, 233, 0.9);
+}
+.menu li a:hover, .menu li a.active {
+	color: #5FBCE9;
+}
+.no-touch .menu li a:hover, .no-touch .menu li a.active {
+	color: #5FBCE9;
+}
+#mobile-menu ul li a:hover, #mobile-menu ul li a.active {color: #5FBCE9;}
+.photostream a .item-mask:hover {background-color: #5FBCE9;}
+.team-member-info.default_color {
+	background-color: rgba(95, 188, 233, 0.9);
+}
+.skills-graph li span {
+	background-color: #5FBCE9;
+}
+.boxed.default_color { background-color: #5FBCE9; }
+.highlight1 { background-color: #5FBCE9; }
+.grey:hover, .content.alternate .grey:hover, .content.alternate.dark .grey:hover, .content.alternate.default_color .grey:hover { background-color:#5FBCE9; }
+.content.alternate.default_color .button-group .button:first-child { border-right: 1px solid #5FBCE9; }
+.pricing-table .featured {
+    background-color: #5FBCE9;
+}
+.pricing-table .featured .price:after, .content.alternate.dark .pricing-table .featured .price:after {
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #5FBCE9;
+}
+.tab-menu a.tabs-active, .content.alternate .tab-menu a.tabs-active, .content.alternate.dark .tab-menu a.tabs-active { background-color: #5FBCE9; }
+.item-info-overlay {
+	background-color: rgba(95, 188, 233, 0.9);
+}
+.parallax.default_color .post-nav li {	border-right-color: #5FBCE9;}
+.parallax.default_color .share li:first-child {
+	border-left-color: #5FBCE9;
+}
+.post-nav-2 li:hover {
+	background-color: #5FBCE9;
+}
+.tagcloud a:hover, .content.alternate .tagcloud a:hover, .content.alternate.dark .tagcloud a:hover, .widget .tagcloud a:hover  {
+	background-color: #5FBCE9;
+	border: 1px solid #5FBCE9;
+}
+.content.alternate.default_color .arrow.up { border-color: transparent transparent #5FBCE9; }
+.content.alternate.default_color .arrow.down { border-color: #5FBCE9 transparent transparent; }
+.overlay { background: rgba(95, 188, 233, 0.9); }
+
+
+
+
+
+.widget a:hover {
+	color: #5FBCE9;
+}
+.content.alternate.dark .widget ul li a:hover {
+	color: #5FBCE9;
+}
+.blog-holder .post.alternate_color, .content.alternate .blog-holder .post.alternate_color, .parallax.default_color .blog-holder .post.alternate_color, .content.alternate.dark .blog-holder .post.alternate_color {
+	background-color: #5FBCE9;
+}
+.post-meta a:hover {
+	color: #5FBCE9;
+}
+.content.alternate.dark .post-meta a:hover {
+	color: #5FBCE9;
+}
+.post-date li a:hover, .post-date li.comments:hover:before {
+	color: #5FBCE9;
+}
+.content.alternate.dark .post-date li a:hover {
+	color: #5FBCE9;
+}
+.wp-pagenavi a:hover, .content.alternate .wp-pagenavi a:hover, .content.alternate.dark .wp-pagenavi a:hover {
+	background-color: #5FBCE9;
+	border: 1px solid #5FBCE9;
+}
+.comment .author a:hover, .comment .children .author a:hover {
+	color: #5FBCE9;
+}
+.comment .reply:hover {
+	background-color:#5FBCE9;
+}
+.comment .children .comment-meta .reply:hover {
+	background-color:#5FBCE9;
+}
+
+
+
+
+
+
+.full-icon.default_color {
+  	background-color: #5FBCE9;
+  	box-shadow: 0 0 0 2px #5FBCE9 inset;
+}
+.full-icon.default_color:hover, .full-icon.default_color:hover a {
+	color: #5FBCE9;
+}
+.border-icon.default_color {
+  	box-shadow: 0 0 0 2px #5FBCE9 inset;
+  	color: #5FBCE9;
+}
+.border-icon.default_color:hover {
+    background-color: #5FBCE9;
+  	box-shadow: 0 0 0 2px #5FBCE9 inset;
+}
+.border-icon.default_color a {
+  	color: #5FBCE9;
+}
+.parallax.default_color .border-icon.default_color:hover { color: #5FBCE9; }
+.transparent.default_color, .parallax.default_color .transparent.default_color {
+  	color: #5FBCE9;
+}
+#circle { background: #5FBCE9; }
+
+
+
+
+
+
+div.jp-play-bar {
+	background-color: #5FBCE9;
+}
+div.jp-volume-bar-value {
+	background-color: #5FBCE9;
+}

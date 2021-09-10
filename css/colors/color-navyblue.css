@@ -1,0 +1,148 @@
+blockquote.color {
+	background-color: #678795;
+}
+a { 
+	color: #678795;
+}
+.dark a {
+	color: #678795;
+}
+.timer{
+	color: #678795;
+}
+.button.default_color { background-color:#678795; }
+.content.alternate.default_color {
+	background-color: #678795;
+}
+.parallax.default_color {
+	background-color: #678795;
+}
+.parallax.default_color .item-mask {
+	background-color: #678795;
+}
+.parallax .parallax.default_color, .parallax .content.alternate.default_color {
+	background-color: rgba(103, 135, 149, 0.93);
+}
+.menu li a:hover, .menu li a.active {
+	color: #678795;
+}
+.no-touch .menu li a:hover, .no-touch .menu li a.active {
+	color: #678795;
+}
+#mobile-menu ul li a:hover, #mobile-menu ul li a.active {color: #678795;}
+.photostream a .item-mask:hover {background-color: #678795;}
+.team-member-info.default_color {
+	background-color: rgba(103, 135, 149, 0.93);
+}
+.skills-graph li span {
+	background-color: #678795;
+}
+.boxed.default_color { background-color: #678795; }
+.highlight1 { background-color: #678795; }
+.grey:hover, .content.alternate .grey:hover, .content.alternate.dark .grey:hover, .parallax.default_color .grey:hover { background-color:#678795; }
+.content.alternate.default_color .button-group .button:first-child { border-right: 1px solid #678795; }
+.pricing-table .featured {
+    background-color: #678795;
+}
+.pricing-table .featured .price:after, .content.alternate.dark .pricing-table .featured .price:after {
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #678795;
+}
+.tab-menu a.tabs-active, .content.alternate .tab-menu a.tabs-active, .content.alternate.dark .tab-menu a.tabs-active { background-color: #678795; }
+.item-info-overlay {
+	background-color: rgba(103, 135, 149, 0.9);
+}
+.parallax.default_color .post-nav li {	border-right-color: #678795;}
+.parallax.default_color .share li:first-child {
+	border-left-color: #678795;
+}
+.post-nav-2 li:hover {
+	background-color: #678795;
+}
+.tagcloud a:hover, .content.alternate .tagcloud a:hover, .content.alternate.dark .tagcloud a:hover, .widget .tagcloud a:hover  {
+	background-color: #678795;
+	border: 1px solid #678795;
+}
+.content.alternate.default_color .arrow.up { border-color: transparent transparent #678795; }
+.content.alternate.default_color .arrow.down { border-color: #678795 transparent transparent; }
+.overlay { background: rgba(103, 135, 149, 0.9); }
+
+
+
+
+
+
+.widget a:hover {
+	color: #678795;
+}
+.content.alternate.dark .widget ul li a:hover {
+	color: #678795;
+}
+.blog-holder .post.alternate_color, .content.alternate .blog-holder .post.alternate_color, .parallax.default_color .blog-holder .post.alternate_color, .content.alternate.dark .blog-holder .post.alternate_color {
+	background-color: #678795;
+}
+.post-meta a:hover {
+	color: #678795;
+}
+.content.alternate.dark .post-meta a:hover {
+	color: #678795;
+}
+.post-date li a:hover, .post-date li.comments:hover:before {
+	color: #678795;
+}
+.content.alternate.dark .post-date li a:hover {
+	color: #678795;
+}
+.wp-pagenavi a:hover, .content.alternate .wp-pagenavi a:hover, .content.alternate.dark .wp-pagenavi a:hover {
+	background-color: #678795;
+	border: 1px solid #678795;
+}
+.comment .author a:hover, .comment .children .author a:hover {
+	color: #678795;
+}
+.comment .reply:hover {
+	background-color:#678795;
+}
+.comment .children .comment-meta .reply:hover {
+	background-color:#678795;
+}
+
+
+
+
+
+
+.full-icon.default_color {
+  	background-color: #678795;
+  	box-shadow: 0 0 0 2px #678795 inset;
+}
+.full-icon.default_color:hover, .full-icon.default_color:hover a {
+	color: #678795;
+}
+.border-icon.default_color {
+  	box-shadow: 0 0 0 2px #678795 inset;
+  	color: #678795;
+}
+.border-icon.default_color:hover {
+    background-color: #678795;
+  	box-shadow: 0 0 0 2px #678795 inset;
+}
+.border-icon.default_color a {
+  	color: #678795;
+}
+.parallax.default_color .border-icon.default_color:hover { color: #678795; }
+.transparent.default_color, .parallax.default_color .transparent.default_color {
+  	color: #678795;
+}
+#circle { background: #678795; }
+
+
+
+
+
+
+div.jp-play-bar {
+	background-color: #678795;
+}
+div.jp-volume-bar-value {
+	background-color: #678795;
+}
